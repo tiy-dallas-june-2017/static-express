@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tiy-dallas-june-2017/static-express/issues"
   },
-  "homepage": "https://github.com/tiy-dallas-june-2017/static-express#readme"
+  "homepage": "https://github.com/tiy-dallas-june-2017/static-express#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
